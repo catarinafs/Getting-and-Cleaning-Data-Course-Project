@@ -1,4 +1,4 @@
-Steps to do this project is stored in README.mf file.
+Steps to do this project is stored in README.md file.
 ================
 
 Variables Based on the file "Feature Selection" from downloaded file
