@@ -10,9 +10,11 @@ This repository contains 5 files:
 
   Steps to get the required dataset
   =============================
+  The script was created in RStudio - R version 3.4.1 (2017-06-30) -- "Single Candle"
+  
 1. create a file to place the data if it doesn't exists
 2. download the data
-3. Unzip dataSet to /data directory
+3. Unzip data
 4. Read unziped files onto R
 5. Label the columns of the datasets
 6. Merge the training and the test sets to create one data set.  
