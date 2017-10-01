@@ -56,17 +56,3 @@ Additional vectors obtained by averaging the signals in a signal window sample. 
 4. tBodyGyroMean
 5. tBodyGyroJerkMean
 
-  Steps to get the required dataset
-  =============================
-1. create a file to place the data if it doesn't exists
-2. download the data
-3. Unzip dataSet to /data directory
-4. Read unziped files onto R
-5. Label the columns of the datasets
-6. Merge the training and the test sets to create one data set.  
-7. Define a vector with all variables names  
-8. Create a vector that will search for ID, mean and Std in the variables
-9. Subset data from merge_all when serach_id_mean_std=TRUE
-10. Use descriptive activity names     
-11. Second data with the average of each variable for each activity and each subject 
-12. Create Txt files with the datasets created
