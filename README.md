@@ -2,7 +2,7 @@
 Getting and Cleaning Data Course Project
 
 This repository contains 5 files:
-1. README.md - Explain the original dataset
+1. README.md - Explain the steps to get the required dataset
 2. CodeBook.md - Explain the variables from original dataset, the new objects, and the steps I did to get from original dataset to the required dataset for the project
 3. run_analysis.R - R code that I created.
 4. TidyData - tidy dataset with descriptive variable names
@@ -24,3 +24,5 @@ This repository contains 5 files:
 10. Use descriptive activity names     
 11. Second data with the average of each variable for each activity and each subject 
 12. Create Txt files with the datasets created
+
+more detailed description is provided in the script
